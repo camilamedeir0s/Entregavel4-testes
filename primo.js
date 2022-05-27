@@ -1,4 +1,4 @@
-function primo(numteste){
+function Primo(numteste){
     let numero = numteste;
     let contador = 0;
     for (let i=numero; i>0; i--){
@@ -14,4 +14,4 @@ function primo(numteste){
     }  
 }
 
-module.exports = primo;
+module.exports = Primo;

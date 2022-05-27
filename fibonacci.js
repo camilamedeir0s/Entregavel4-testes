@@ -1,4 +1,4 @@
-function fibonacci(qt_termos){
+function Fibonacci(qt_termos){
     let quantidade_termos = qt_termos;
     let x = 0;
     let y = 1;
@@ -18,4 +18,4 @@ function fibonacci(qt_termos){
     return resultadoFib;
 }
 
-module.exports = fibonacci;
+module.exports = Fibonacci;

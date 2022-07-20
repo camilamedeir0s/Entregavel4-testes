@@ -1,4 +1,4 @@
-const Fibonacci = require('./Fibonacci');
+const Fibonacci = require('./fibonacci');
 
 test('fibonacci 1', () => {
     expect(Fibonacci(3)).toBe('0 1 1')
